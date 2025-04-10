@@ -1,0 +1,7 @@
+{
+	"name": "web",
+	"scripts": {
+		"dev": "echo '🧪 dev server goes here'",
+		"build": "echo '📦 building web app...'"
+	}
+}

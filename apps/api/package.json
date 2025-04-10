@@ -1,0 +1,7 @@
+{
+	"name": "api",
+	"scripts": {
+		"dev": "echo '🧪 start your API here'",
+		"build": "echo '📦 build your API here'"
+	}
+}
